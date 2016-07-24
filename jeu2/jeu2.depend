@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1422460200 source:c:\users\maryline\documents\projet c les chiifres et le slettres\jeu2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"joueur.h"
+	"chiffres.h"
+	"Lettres.h"
+	"result.h"
+
+1420717227 c:\users\maryline\documents\projet c les chiifres et le slettres\jeu2\joueur.h
+
+1421618717 c:\users\maryline\documents\projet c les chiifres et le slettres\jeu2\chiffres.h
+
+1415586520 c:\users\maryline\documents\projet c les chiifres et le slettres\jeu2\result.h
+
+1422458541 source:c:\users\maryline\documents\projet c les chiifres et le slettres\jeu2\chiffres.c
+	"chiffres.h"
+	"joueur.h"
+	"result.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1420717216 source:c:\users\maryline\documents\projet c les chiifres et le slettres\jeu2\joueur.c
+	"joueur.h"
+	"Lettres.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1420716882 source:c:\users\maryline\documents\projet c les chiifres et le slettres\jeu2\lettres.c
+	"Lettres.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+
+1420385658 c:\users\maryline\documents\projet c les chiifres et le slettres\jeu2\lettres.h
+
+1415586926 source:c:\users\maryline\documents\projet c les chiifres et le slettres\jeu2\result.c
+	"result.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+

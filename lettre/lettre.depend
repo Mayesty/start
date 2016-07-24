@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1420502811 source:c:\users\maryline\documents\projet c les chiifres et le slettres\lettre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

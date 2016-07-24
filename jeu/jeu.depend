@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1415586861 source:c:\users\maryline\documents\projekgtc\jeu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"joueur.h"
+	"chiffres.h"
+	"result.h"
+
+1415587254 source:c:\users\maryline\documents\projekgtc\jeu\chiffres.c
+	"chiffres.h"
+	"result.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1415586317 c:\users\maryline\documents\projekgtc\jeu\chiffres.h
+
+1415575527 source:c:\users\maryline\documents\projekgtc\jeu\joueur.c
+	"joueur.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1415573604 c:\users\maryline\documents\projekgtc\jeu\joueur.h
+
+1415586520 c:\users\maryline\documents\projekgtc\jeu\result.h
+
+1415586926 source:c:\users\maryline\documents\projekgtc\jeu\result.c
+	"result.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1415587254 source:c:\users\maryline\documents\projet c les chiifres et le slettres\jeu\chiffres.c
+	"chiffres.h"
+	"result.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1415586317 c:\users\maryline\documents\projet c les chiifres et le slettres\jeu\chiffres.h
+
+1415586520 c:\users\maryline\documents\projet c les chiifres et le slettres\jeu\result.h
+
+1420243658 source:c:\users\maryline\documents\projet c les chiifres et le slettres\jeu\joueur.c
+	"joueur.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1420243665 c:\users\maryline\documents\projet c les chiifres et le slettres\jeu\joueur.h
+
+1415586926 source:c:\users\maryline\documents\projet c les chiifres et le slettres\jeu\result.c
+	"result.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1418131056 source:c:\users\maryline\documents\projet c les chiifres et le slettres\jeu\lettres.c
+	"Lettres.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+
+1418131076 c:\users\maryline\documents\projet c les chiifres et le slettres\jeu\lettres.h
+
+1420245690 source:c:\users\maryline\documents\projet c les chiifres et le slettres\jeu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"joueur.h"
+	"chiffres.h"
+	"result.h"
+

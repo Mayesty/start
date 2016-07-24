@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1417625929 source:c:\users\maryline\documents\jeuc\exercice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1418131996 source:c:\users\maryline\documents\projet c les chiifres et le slettres\jeu\exercice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
